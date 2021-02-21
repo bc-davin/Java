@@ -1,2 +1,2 @@
 # Java
-When I was taking classes at Maryland, USA.
+When I was taking classes in Maryland, USA.
