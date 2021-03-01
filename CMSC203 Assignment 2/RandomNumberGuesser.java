@@ -1,16 +1,4 @@
-/*
- * Class: CMSC203 
- * Instructor: Dr. Grinberg
- * Description: Build an application that will receive a guess and report if your guess is the random number that was generated.  
-                Your application will narrow down the choices according to your previous guesses 
-                and continue to prompt you to enter a guess until you guess correctly.  
- * Due: 03/1/2021
- * Platform/compiler: Eclipse IDE
- * I pledge that I have completed the programming assignment independently.
-   I have not copied the code from a student or any source.
-   I have not given my code to any student.
-   Print your Name here: ___Davicheanin Meas_______
-*/
+
 
 import java.util.Scanner;
 
